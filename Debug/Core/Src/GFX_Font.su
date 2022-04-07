@@ -1,0 +1,5 @@
+GFX_Font.c:15:6:GFX_EF_SetFont	16	static
+GFX_Font.c:20:9:GFX_EF_GetHeight	4	static
+GFX_Font.c:25:9:GFX_EF_GetGap	4	static
+GFX_Font.c:30:9:GFX_EF_GetStartChar	4	static
+GFX_Font.c:35:9:GFX_EF_GetEndChar	4	static

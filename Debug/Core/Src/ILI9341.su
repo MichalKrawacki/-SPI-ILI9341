@@ -1,0 +1,10 @@
+ILI9341.c:14:13:_ILI9341_Delay	16	static
+ILI9341.c:19:13:_ILI9341_SendToTFT	16	static
+ILI9341.c:38:13:_ILI9341_SendCommand	16	static
+ILI9341.c:53:13:_ILI9341_SendCommandAndData	24	static
+ILI9341.c:75:13:_ILI9341_SendData16	24	static
+ILI9341.c:88:6:ILI9341_SetAddrWindow	32	static
+ILI9341.c:114:6:ILI9341_WritePixel	24	static
+ILI9341.c:131:6:ILI9341_ClearDisplay	24	static
+ILI9341.c:169:13:_ILI9341_SetRotation	24	static
+ILI9341.c:224:6:ILI9341_Init	24	static
